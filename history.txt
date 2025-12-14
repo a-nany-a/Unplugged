@@ -1,0 +1,314 @@
+User Command : C-unplugged Started
+User Command: 1
+User Command: 2
+User Command: 3
+User Command : Created an album
+User Command: 4
+User Command : Added song to album
+User Command: 2
+User Command: 5
+User Command : Deleted song from album
+User Command: 2
+User Command: 6
+User Command : Saved albums
+User Command: 7
+User Command : Added single song to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 11
+User Command: 9
+User Command : Next song being played
+User Command: 10
+User Command : Previous song being played
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 13
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: -1
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 8
+User Command : Added album to playlist
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 8
+User Command : Added album to playlist
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 2
+User Command: 2
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command : C-unplugged Started
+User Command: 8
+User Command : Added album to playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command : C-unplugged Started
+User Command: 1
+User Command: 1
+User Command: 3
+User Command : Created an album
+User Command: 2
+User Command: 4
+User Command : Added song to album
+User Command: 4
+User Command : Added song to album
+User Command: 4
+User Command : Added song to album
+User Command: 2
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 2
+User Command: 8
+User Command : Added album to playlist
+User Command: 2
+User Command: 3
+User Command : Created an album
+User Command: 6
+User Command : Saved albums
+User Command: 11
+User Command: 8
+User Command : Added album to playlist
+User Command: 7
+User Command : Added single song to playlist
+User Command: 11
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 7
+User Command : Added single song to playlist
+User Command: 9
+User Command : Next song being played
+User Command: 9
+User Command : Next song being played
+User Command: 9
+User Command : Next song being played
+User Command: 13
+User Command: 45
+User Command : C-unplugged Started
+User Command: 1
+User Command: 2
+User Command : C-unplugged Started
+User Command: 1
+User Command: 3
+User Command : Created an album
+User Command: 2
+User Command : C-unplugged Started
+User Command: 1
+User Command: 2
+User Command: 3
+User Command : Created an album
+User Command: 2
+User Command: 4
+User Command : Added song to album
+User Command: 2
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : Deleted song from album
+User Command : C-unplugged Started
+User Command: 2
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : Deleted song from album
+User Command: 5
+User Command : C-unplugged Started
+User Command: 5
+User Command : Deleted song from album
+User Command : C-unplugged Started
+User Command: 5
+User Command : Deleted song from album
+User Command: 2
+User Command: 7
+User Command : Added single song to playlist
+User Command: 11
+User Command: 8
+User Command : Added album to playlist
+User Command: 11
+User Command: 9
+User Command : Next song being played
+User Command: 10
+User Command : Previous song being played
+User Command: 12
+User Command : Deleted song from playlist
+User Command: 11
+User Command: 13
+User Command: 0
+User Command : Program Exited
+User Command : C-unplugged Started
+User Command: 6
+User Command : Saved albums
+User Command: 3
+User Command : Created an album
+User Command: 0
+User Command : Program Exited

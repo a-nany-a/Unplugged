@@ -1,0 +1,31 @@
+#Album:Evermore
+song:Willow|Taylor Swift|300
+song:Champagne Problems|Taylor Swift|256
+#Album:Divide
+song:Shape of You|Ed Sheeran|250
+song:Perfect|Ed Sheeran|280
+#Album:Revival
+song:Kill Em With Kindness|Selena Gomez|235
+song:Hands to Myself|Selena Gomez|200
+song:Same Old Love|Selena Gomez|220
+song:Good for You|Selena Gomez|190
+#Album:Rare
+song:Rare|Selena Gomez|215
+song:Look at Her Now|Selena Gomez|180
+song:Lose You to Love Me|Selena Gomez|200
+#Album:Different World
+song:Faded|Alan Walker|212
+song:Sing Me to Sleep|Alan Walker|187
+song:Alone|Alan Walker|169
+song:Darkside|Alan Walker|211
+#Album:ArijitHits
+song:Channa Mereya|Arijit Singh|260
+song:Raabta|Arijit Singh|215
+song:Agar Tum Saath Ho|Arijit Singh|265
+song:Tum Hi Ho|Arijit Singh|250
+#Album:ArijitSoul
+song:Kesariya|Arijit Singh|180
+song:Shayad|Arijit Singh|190
+song:Phir Le Aya Dil|Arijit Singh|245
+#Album:abc
+song:Apna Bana Le|Arijit Singh|214

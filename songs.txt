@@ -1,0 +1,61 @@
+1|Champagne problems|Taylor Swift|250
+2|August|Taylor Swift|260
+3|Hello|Adele|245
+4|Fix You|Coldplay|300
+5|Love Story|Taylor Swift|235
+6|Arcade|Duncan Laurence|210
+7|Lover|Taylor Swift|235
+8|Beautiful|Duncan Laurence|210
+9|Attention|Charlie Puth|215
+10|Stay|The Kid LAROI & Justin Bieber|141
+11|Shallow|Lady Gaga & Bradley Cooper|216
+12|Memories|Maroon 5|189
+13|Night Changes|One Direction|227
+14|Let Her Go|Passenger|245
+15|Believer|Imagine Dragons|204
+16|Until I Found You|Stephen Sanchez|196
+17|Someone You Loved|Lewis Capaldi|182
+18|Death Bed|Powfu|159
+19|All of Me|John Legend|269
+20|Photograph|Ed Sheeran|258
+21|Counting Stars|OneRepublic|257
+22|Treat You Better|Shawn Mendes|187
+23|Shape of You|Ed Sheeran|240
+24|Happier|Marshmello|214
+25|Faded|Alan Walker|212
+26|Lovely|Billie Eilish & Khalid|200
+27|See You Again|Wiz Khalifa|229
+28|Cheap Thrills|Sia|223
+29|Stay With Me|Sam Smith|172
+30|Closer|Chainsmokers|244
+31|Paris|Chainsmokers|222
+32|Runaway|AURORA|226
+33|Yellow|Coldplay|269
+34|A Sky full of Stars|Coldplay|300
+35|Viva La Vida|Coldplay|242
+36|Everything has changed|Ed Sheeran|263
+37|Ghost|Justin Bieber|155
+38|Levitating|Dua Lipa|203
+39|Adore You|Harry Styles|207
+40|As It Was|Harry Styles|167
+41|Watermelon Sugar|Harry Styles|174
+42|Dusk Till Dawn|Zayn & Sia|239
+43|Wolves|Selena Gomez & Marshmello|197
+44|De Una Vez|Selena Gomez|235
+45|Lose You to Love Me|Selena Gomez|198
+46|Good For You|Selena Gomez & A$AP Rocky|188
+47|On My Way|Alan Walker|208
+48|Darkside|Alan Walker|211
+49|Alone|Alan Walker|169
+50|Lily|Alan Walker|195
+51|Raabta|Arijit Singh|215
+52|Channa Mereya|Arijit Singh|260
+53|Agar Tum Saath Ho|Arijit Singh|265
+54|Kesariya|Arijit Singh|180
+55|Shayad|Arijit Singh|190
+56|Tum Hi Ho|Arijit Singh|250
+57|Apna Bana Le|Arijit Singh|214
+58|Main Rang Sharbaton Ka|Arijit Singh|239
+59|Hawayein|Arijit Singh|251
+60|Phir Le Aya Dil|Arijit Singh|245
+61|abc|dab|112
